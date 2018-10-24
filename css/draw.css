@@ -1,0 +1,16 @@
+.s1{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    
+    background-color:whitesmoke;
+    border-radius: 50%
+}
+.s2{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    
+    background-color:whitesmoke;
+    border-radius: 50%
+}
